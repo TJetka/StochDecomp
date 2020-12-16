@@ -4,6 +4,7 @@ Matlab package for noise decomposition in biological models. A software package 
 
 > Jetka, Tomasz, et al. "StochDecomp—Matlab package for noise decomposition in stochastic biochemical systems." Bioinformatics 30.1 (2014): 137-138.
 
+Please refer to the supplementary information of the paper for assistance.
 
 ##
-The package is freely available under GNU Licence. 2014.
+2014. The package is freely available under GNU Licence.
